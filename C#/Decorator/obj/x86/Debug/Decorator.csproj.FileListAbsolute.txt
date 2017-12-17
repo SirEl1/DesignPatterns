@@ -1,0 +1,5 @@
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Decorator/bin/Debug/Decorator.exe
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Decorator/bin/Debug/Decorator.pdb
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Decorator/obj/x86/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Decorator/obj/x86/Debug/Decorator.exe
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Decorator/obj/x86/Debug/Decorator.pdb
