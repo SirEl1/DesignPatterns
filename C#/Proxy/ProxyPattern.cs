@@ -11,7 +11,7 @@ namespace Proxy
 
             public void AllowBoarding(string passengername) {
             
-                Console.WriteLine("Passenger " + passengername  + " is allowed to board the flight");
+                Console.WriteLine("Passenger " + passengername  + " is allowed to board the flight.");
             
             }
         }
