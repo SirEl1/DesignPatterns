@@ -1,0 +1,5 @@
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Proxy/obj/x86/Debug/Proxy.csproj.CoreCompileInputs.cache
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Proxy/bin/Debug/Proxy.exe
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Proxy/bin/Debug/Proxy.pdb
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Proxy/obj/x86/Debug/Proxy.exe
+/Users/elshansiradjov/Desktop/Elshan lima/DesignPatterns/C#/Proxy/obj/x86/Debug/Proxy.pdb

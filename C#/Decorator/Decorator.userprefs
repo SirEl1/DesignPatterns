@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{85D540C4-EC1F-402A-BD2C-F1AC2AE22A19}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DecoratorPattern.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Proxy/ProxyPattern.cs">
     <Files>
-      <File FileName="DecoratorPattern.cs" Line="1" Column="1" />
+      <File FileName="../../../../PhonicScore/iOS/Lib/IOS_PhonicScoreGui/PracticeBird/InAppPurchase/IAPMoreInfoViewController.cs" Line="132" Column="16" />
+      <File FileName="../Proxy/ProxyPattern.cs" Line="65" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
